@@ -1,0 +1,31 @@
+.cartoon{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.tom{
+    background-color: coral;
+    height: 200px;
+    width: 200px;
+    border: 1px solid;
+}
+.jerry{
+    background-color: coral;
+    height: 200px;
+    width: 200px;
+    border: 20px solid deeppink;
+}
+.spike{
+    background-color: coral;
+    height: 200px;
+    width: 200px;
+    border: 20px solid deeppink;
+    padding: 20px;
+}
+.tommy{
+    background-color: coral;
+    height: 300px;
+    width: 300px;
+    border: 20px solid deeppink;
+    padding: 20px;
+    margin: 20px;
+}

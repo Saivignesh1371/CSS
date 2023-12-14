@@ -1,0 +1,15 @@
+p:first-child{
+    background-color: chartreuse;
+}
+.spike a:hover{
+    background: red;
+}
+.tom a:link{
+color: blue;
+}
+.jerry a:visited{
+    color: aqua;
+}
+p:last-child{
+    background-color: blueviolet;
+}

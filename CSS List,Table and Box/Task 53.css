@@ -1,0 +1,24 @@
+h1::after{
+    content: "ALL";
+}
+h2::before{
+    content: "Your ";
+}
+ul li::marker{
+    color: chartreuse;
+}
+.spike::first-line{
+    background-color: chocolate;
+}
+.cat::first-letter{
+    background-color: red;
+}
+.tom::first-line{
+    background-color: blue;
+}
+.jerry::first-letter{
+    background-color: blueviolet;
+}
+.cat::selection{
+    background-color: aqua;
+}

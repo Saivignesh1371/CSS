@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+.tom{
+    width: 80%;
+    background-color: rgb(4, 144, 113);
+    border: 50px solid rgb(62, 55, 55);
+    margin: 20px 20px 20px 20px;
+}
+table{
+    width: 100%;
+    border: 1px solid;
+}
+th,td{
+    text-align: left;
+    padding: 20px;
+}
+tr:first-child{
+    background-color: aqua
+}

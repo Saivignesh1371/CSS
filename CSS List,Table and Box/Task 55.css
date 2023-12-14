@@ -1,0 +1,65 @@
+body{
+    background-image: url("images.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tom{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.tom > div {
+    
+    width: 350px;
+    margin: 30px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+.white{
+    background-color: aliceblue;
+}
+.white:hover{
+    background-color: #f00a47;
+}
+.blue{
+    background-color: blue;
+}
+.blue:hover{
+    background-color: #f00a47;
+}
+.yellow{
+    background-color: yellow;
+}
+.yellow:hover{
+    background-color: #f00a47;
+}
+.jerry{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.jerry > div {
+    width: 350px;
+    margin: 30px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+.white1{
+    background-color: antiquewhite;
+}
+.white1:hover{
+    background-color: #f00a47;
+}
+.blue1{
+    background-color: darkblue;
+}
+.blue1:hover{
+    background-color: #f00a47;
+}
+.nil{
+    background-color: transparent;
+}
+.nil:hover{
+    background-color: #f00a47;
+}

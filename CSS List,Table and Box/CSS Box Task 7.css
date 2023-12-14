@@ -1,0 +1,50 @@
+body{
+    background-image: url("Task\ 7.0.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tom{
+    display: flex;
+    justify-content: center;
+    
+}
+.tom1{
+    border: 60px solid white;
+    background-color: white;
+    border-radius: 200px 200px 0px 200px;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+}
+.tom2{
+    border: 60px solid white;
+    background-color: white;
+    border-radius: 200px 200px 200px 0px;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+}
+.jerry{
+    display: flex;
+    justify-content: center;
+}
+.jerry1{
+    border: 60px solid white;
+    background-color: white;
+    border-radius: 200px 0px 200px 200px;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+}
+.jerry2{
+    border: 60px solid white;
+    background-color: white;
+    border-radius: 0px 200px 200px 200px;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+}
