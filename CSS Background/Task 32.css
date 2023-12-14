@@ -1,0 +1,24 @@
+.tom{
+    height: 200px;
+    width: 200px;
+    border: 8px ridge;
+    padding: 14px;
+    background-color: aqua;
+    background-clip: border-box;
+}
+.jerry{
+    height: 200px;
+    width: 200px;
+    border: 8px double;
+    padding: 14px;
+    background-color: aqua;
+    background-clip: content-box;
+}
+.spike{
+    height: 200px;
+    width: 200px;
+    border: 8px dotted;
+    padding: 14px;
+    background-color: aqua;
+    background-clip: padding-box;
+}
