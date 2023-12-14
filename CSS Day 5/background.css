@@ -1,0 +1,10 @@
+.VJ1{
+    background-image: conic-gradient(red,violet,blue,yellow);
+    /* background-image: linear-gradient(red,violet,blue,yellow); */
+    background-repeat: no-repeat;
+    height: 100vh;
+    /* background-size: cover; */
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+}
