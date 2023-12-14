@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+20:26 16-08-2023<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Overflow</title>
+    <style>
+        .dog{
+            white-space: nowrap;
+            width: 70px;    
+            text-overflow: clip;
+            border: 2px solid red;
+        }
+        .mouse{
+            white-space: nowrap;
+            width: 70px; 
+            overflow: hidden;   
+            text-overflow: Normal;
+            border: 2px solid red;
+        }
+        .cat{
+            white-space: nowrap;
+            width: 70px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            border: 2px solid #691b96;
+        }
+    </style>
+</head>
+<body>
+    <h1>Text Overflow</h1>
+    <h2>Clip</h2>
+    <div class="dog">The Morning was so Boring</div>
+    <h2>Overflow</h2>
+    <div class="mouse">The Morning was so Boring</div>
+    <h2>Ellipsis</h2>
+    <div class="cat">The Morning was so Boring</div>
+</body>
+</html>
